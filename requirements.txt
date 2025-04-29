@@ -1,0 +1,9 @@
+ttkbootstrap
+PyMuPDF
+weasyprint
+PyPDF2
+bleach
+pyperclip
+pillow # Required for image handling
+cairocffi  # Required for weasyprint
+cffi  # Required for cairocffi
